@@ -8,7 +8,7 @@ function digitalClock() {
     const digitalMinutes = document.querySelector(".minutes");
     const digitalSeconds = document.querySelector(".seconds");
     const am_pm = document.querySelector(".am_pm")
-    console.log(am_pm);
+    //console.log(am_pm);
     let currentTime = new Date()
 
 
